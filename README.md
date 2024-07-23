@@ -1,0 +1,1 @@
+# fatify_project
